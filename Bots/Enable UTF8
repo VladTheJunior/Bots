@@ -1,0 +1,5 @@
+sudo nano /etc/locale.gen
+Remove the # from every line which you want to generate.
+save the file 
+
+then run sudo /usr/sbin/locale-gen
